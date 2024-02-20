@@ -1,2 +1,1 @@
-# sokoban
-Projet Licence 2 Informatique
+  java -jar sokobanMarquis.jar
