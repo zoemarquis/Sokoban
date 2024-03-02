@@ -3,6 +3,8 @@
 ## Instructions du jeu 
 Le joueur contrôle un canard dans l'eau. Les nénuphars sont des obstacles. L'objectif est de sauver tous les canetons en les plaçant dans les bouées.
 
+![img](sokoban_canard.png)
+
 ## Installation
 Pour jouer à Sokoban, assurez-vous d'avoir Java installé sur votre machine.
 
